@@ -35,8 +35,8 @@ Check out my repositories for exciting work in progress!
 
 ## 📫 **Get in Touch**  
 I’d love to connect with fellow developers and tech enthusiasts!  
-- **LinkedIn:** [ LinkedIn Profile](https://www.linkedin.com/in/vidya-yadav-7141832b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- **Email:** [Email Address](mailto: vidyay731@gmail.com)  
+- **LinkedIn:** [ LinkedIn Profile](https://www.linkedin.com/in/vidya-yadav-7141832b3)  
+- **Email:** [Email Address](mailto: vidyayadav5538@gmail.com)  
   
 
 -------
